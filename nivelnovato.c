@@ -1,4 +1,4 @@
- #include <stdio.h>
+#include <stdio.h>
 
 int main(){
 
@@ -46,7 +46,6 @@ pibpercapita1 = (pib1/populacao1);
 printf("\n");
 
 //leitura das caratas 1
-
 printf("==Informaçoes dos Dados 1==\n");
 printf("\n\n");
 printf("O estado 1: %s\n",estado1);
